@@ -3,7 +3,6 @@
 /public/storage
 /public/uploads
 /storage/*.key
-/vendor
 /.idea
 /.vagrant
 .DS_Store
