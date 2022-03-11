@@ -248,24 +248,24 @@
                 </div>
             </div>
             <div class="col-md-2 col-sm-6 col-xs-12 footer-block">
-                <!-- <h2>Follow Us On</h2>
-                <ul class="social-icons">
-                    <li>
-                        <a href="{{ ($gymSettings != '' && $gymSettings->fb_url != '')? $gymSettings->fb_url: 'javascript:;' }}" target="_blank" data-original-title="facebook" class="facebook"></a>
-                    </li>
-                    <li>
-                        <a href="{{ ($gymSettings != '' && $gymSettings->twitter_url != '')? $gymSettings->twitter_url: 'javascript:;' }}" target="_blank" data-original-title="twitter" class="twitter"></a>
-                    </li>
-                    <li>
-                        <a href="{{ ($gymSettings != '' && $gymSettings->google_url != '')? $gymSettings->google_url: 'javascript:;' }}" target="_blank" data-original-title="googleplus" class="googleplus"></a>
-                    </li>
-                    <li>
-                        <a href="{{ ($gymSettings != '' && $gymSettings->youtube_url != '')? $gymSettings->youtube_url: 'javascript:;' }}" target="_blank" data-original-title="youtube" class="youtube"></a>
-                    </li>
-                </ul> -->
-                <h2>Whatsapp Us Now</h2>
+                <!-- <h2>Follow Us Now</h2>-->
+                <!--<ul class="social-icons">-->
+                <!--    <li>-->
+                <!--        <a href="{{ ($gymSettings != '' && $gymSettings->fb_url != '')? $gymSettings->fb_url: 'javascript:;' }}" target="_blank" data-original-title="facebook" class="facebook"></a>-->
+                <!--    </li>-->
+                <!--    <li>-->
+                <!--        <a href="{{ ($gymSettings != '' && $gymSettings->twitter_url != '')? $gymSettings->twitter_url: 'javascript:;' }}" target="_blank" data-original-title="twitter" class="twitter"></a>-->
+                <!--    </li>-->
+                <!--    <li>-->
+                <!--        <a href="{{ ($gymSettings != '' && $gymSettings->google_url != '')? $gymSettings->google_url: 'javascript:;' }}" target="_blank" data-original-title="googleplus" class="googleplus"></a>-->
+                <!--    </li>-->
+                <!--    <li>-->
+                <!--        <a href="{{ ($gymSettings != '' && $gymSettings->youtube_url != '')? $gymSettings->youtube_url: 'javascript:;' }}" target="_blank" data-original-title="youtube" class="youtube"></a>-->
+                <!--    </li>-->
+                <!--</ul>-->
+                <h2>Website </h2>
                 <div class="subscribe-form">
-                    <a href="https://wa.me/+918689034255" class="btn btn-lg" ><i class="fa fa-whatsapp"></i> Whatsapp</a>
+                    <a href="https://phleebs.com" class="btn btn-lg" ><i class="fa fa-globe"></i> Phleebs</a>
                 </div>
             </div>
             <!-- <div class="col-md-2">
